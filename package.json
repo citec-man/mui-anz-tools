@@ -1,0 +1,19 @@
+{
+  "name": "mui-anz-tools",
+  "version": "1.0.23",
+  "description": "A custom mui tools",
+  "main": "prod/bundle.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/citec-man/custom-mui.git"
+  },
+  "keywords": [
+    "anz-tools",
+    "custom-tools"
+  ],
+  "author": "Citec Man",
+  "license": "MIT"
+}
